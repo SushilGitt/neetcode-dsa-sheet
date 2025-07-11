@@ -21,4 +21,4 @@ Feel free to explore, learn, and suggest improvements!
 
 
 ## Arrays & Hashing
-1. [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) [![Java code](image.png)](/arrays%20&%20hashing/ConcatenationOfArray.java)
+1. [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) [📄.java](/arrays%20&%20hashing/ConcatenationOfArray.java)
