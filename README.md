@@ -8,8 +8,9 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 
 ## 📚 Topics Covered
 
+### Arrays & Hashing
 <details>
-<summary><h3>Arrays & Hashing</h3></summary>
+<summary><h3>👇</h3></summary>
 
 #### Easy
 - [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ConcatenationOfArray.java)
@@ -37,7 +38,6 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 #### Hard
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/FirstMissingPositive.java)
 </details>
-
 <details>
 <summary><h3>Two Pointers</h3></summary>
 
