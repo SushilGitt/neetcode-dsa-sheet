@@ -7,10 +7,8 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - Write clean, readable, and efficient code
 
 ## 📚 Topics Covered
-
-### Arrays & Hashing
 <details>
-<summary><h3>👇</h3></summary>
+<summary><h3> Arrays & Hashing </h3></summary>
 
 #### Easy
 - [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ConcatenationOfArray.java)
@@ -22,7 +20,6 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Majority Element](https://leetcode.com/problems/majority-element/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/MajorityElement.java)
 - [Design HashSet](https://leetcode.com/problems/design-hashset/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/DesignHashSet.java)
 - [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/DesignHashMap.java)
-
 #### Medium
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/GroupAnagrams.java)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/SortAnArray.java)
@@ -34,12 +31,11 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/BestTimeToBuyandSellStockII.java)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/MajorityElementII.java)
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/SubarraySumEqualsK.java)
-
 #### Hard
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/FirstMissingPositive.java)
 </details>
 <details>
-<summary><h3>Two Pointers</h3></summary>
+<summary><h3> Two Pointers </h3></summary>
 
 #### Easy
 - [Reverse String](https://leetcode.com/problems/reverse-string/description/) &nbsp;&nbsp;[📄](/two%20pointers/ReverseString.java)
