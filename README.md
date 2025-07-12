@@ -8,15 +8,4 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 
 ## 📚 Topics Covered
 - [Arrays & Hashing](/arrays%20&%20hashing/arrays%20&%20hashing.md)
-<details>
-<summary><h4> Two Pointers </h4></summary>
-
-##### Easy
-- [Reverse String](https://leetcode.com/problems/reverse-string/description/) &nbsp;&nbsp;[📄](/two%20pointers/ReverseString.java)
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) &nbsp;&nbsp;[📄](/two%20pointers/ValidPalindrome.java)
-- [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) &nbsp;&nbsp;[📄](/two%20pointers/ValidPalindromeII.java)
-- [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) &nbsp;&nbsp;[📄](/two%20pointers/MergeStringsAlternately.java)
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) &nbsp;&nbsp;[📄](/two%20pointers/MergeSortedArray.java)
-- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) &nbsp;&nbsp;[📄](/two%20pointers/RemoveDuplicatesfromSortedArray.java)
-
-</details>
+- [Two Pointers](/two%20pointers/twp%20pointers.md)
