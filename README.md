@@ -7,5 +7,5 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - Write clean, readable, and efficient code
 
 ## 📚 Topics Covered
-- [Arrays & Hashing](/arrays%20&%20hashing/arrays%20&%20hashing.md)
-- [Two Pointers](/two%20pointers/twp%20pointers.md)
+- [Arrays & Hashing](/arrays%20&%20hashing/arrays_and_hashing.md)
+- [Two Pointers](/two%20pointers/two_pointers.md)
