@@ -20,7 +20,8 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 Feel free to explore, learn, and suggest improvements!
 
 
-## Arrays & Hashing
+<details>
+<summary>##Arrays & Hashing</summary>
 
 ### Easy
 - [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ConcatenationOfArray.java)
@@ -47,3 +48,5 @@ Feel free to explore, learn, and suggest improvements!
 
 ### Hard
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/FirstMissingPositive.java)
+</details>
+
