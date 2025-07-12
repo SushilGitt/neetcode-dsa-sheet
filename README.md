@@ -8,9 +8,9 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 
 ## 📚 Topics Covered
 <details>
-<summary><h3> Arrays & Hashing </h3></summary>
+<summary><h4> Arrays & Hashing </h4></summary>
 
-#### Easy
+##### Easy
 - [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ConcatenationOfArray.java)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ContainsDuplicate.java)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ValidAnagram.java)
@@ -20,7 +20,7 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Majority Element](https://leetcode.com/problems/majority-element/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/MajorityElement.java)
 - [Design HashSet](https://leetcode.com/problems/design-hashset/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/DesignHashSet.java)
 - [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/DesignHashMap.java)
-#### Medium
+##### Medium
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/GroupAnagrams.java)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/SortAnArray.java)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/SortColors.java)
@@ -31,13 +31,13 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/BestTimeToBuyandSellStockII.java)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/MajorityElementII.java)
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/SubarraySumEqualsK.java)
-#### Hard
+##### Hard
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/FirstMissingPositive.java)
 </details>
 <details>
-<summary><h3> Two Pointers </h3></summary>
+<summary><h4> Two Pointers </h4></summary>
 
-#### Easy
+##### Easy
 - [Reverse String](https://leetcode.com/problems/reverse-string/description/) &nbsp;&nbsp;[📄](/two%20pointers/ReverseString.java)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) &nbsp;&nbsp;[📄](/two%20pointers/ValidPalindrome.java)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) &nbsp;&nbsp;[📄](/two%20pointers/ValidPalindromeII.java)
