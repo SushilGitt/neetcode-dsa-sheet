@@ -21,7 +21,7 @@ Feel free to explore, learn, and suggest improvements!
 
 
 <details>
-<summary>##Arrays & Hashing</summary>
+<summary><h2>Arrays & Hashing</h2></summary>
 
 ### Easy
 - [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/ConcatenationOfArray.java)
@@ -49,4 +49,3 @@ Feel free to explore, learn, and suggest improvements!
 ### Hard
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) &nbsp;&nbsp;[📄](/arrays%20&%20hashing/FirstMissingPositive.java)
 </details>
-
