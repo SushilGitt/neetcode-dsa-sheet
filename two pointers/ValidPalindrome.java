@@ -17,3 +17,9 @@ class Solution {
         return cleaned.toLowerCase();
     }
 }
+/*
+
+TC: O(n)
+SC: O(n)
+
+*/
