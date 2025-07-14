@@ -33,3 +33,45 @@ TC: O(n)
 SC: O(n)
 
 */
+// -----------------------------------------------------------------------------
+
+// Optimal solution:
+
+class Solution {
+    public int trap(int[] height) {
+        int leftMax = 0;
+        int rightMax = 0;
+        int water = 0;
+        int lPtr = 0;
+        int rPtr = height.length - 1;
+
+        while(lPtr < rPtr) {
+            if(height[lPtr] <= height[rPtr]) {
+                if(leftMax > height[lPtr]) {
+                    water += leftMax - height[lPtr];
+                }
+                else {
+                    leftMax = height[lPtr];
+                }
+                lPtr++;
+            }
+            else {
+                if(rightMax > height[rPtr]) {
+                    water += rightMax - height[rPtr];
+                }
+                else {
+                    rightMax = height[rPtr];
+                }
+                rPtr--;
+            }
+        }
+
+        return water;
+    }
+}
+/*
+
+TC: O(n)
+SC: O(1)
+
+*/
