@@ -9,3 +9,4 @@
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) &nbsp;&nbsp;[📄](/sliding_window/LongestRepeatingCharacterReplacement.java)
 - [Permutation In String](https://leetcode.com/problems/permutation-in-string/) &nbsp;&nbsp;[📄](/sliding_window/PermutationInString.java)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) &nbsp;&nbsp;[📄](/sliding_window/MinimumSizeSubarraySum.java)
+- [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) &nbsp;&nbsp;[📄](/sliding_window/FindKClosestElements.java)
