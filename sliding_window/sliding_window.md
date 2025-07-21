@@ -13,3 +13,4 @@
 
 ##### Hard
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) &nbsp;&nbsp;[📄](/sliding_window/MinimumWindowSubstring.java)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) &nbsp;&nbsp;[📄](/sliding_window/SlidingWindowMaximum.java)
