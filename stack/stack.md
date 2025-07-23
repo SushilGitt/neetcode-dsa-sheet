@@ -1,4 +1,4 @@
-### Stack & Queue
+### Stack
 
 ##### Easy
 - [Baseball Game](https://leetcode.com/problems/baseball-game/description/) &nbsp;&nbsp;[📄](/stack/BaseballGame.java)
