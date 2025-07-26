@@ -8,3 +8,4 @@
 
 ##### Medium
 - [Min Stack](https://leetcode.com/problems/min-stack/description/) &nbsp;&nbsp;[📄](/stack/MinStack.java)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) &nbsp;&nbsp;[📄](/stack/EvaluateReversePolishNotation.java)
