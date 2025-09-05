@@ -15,6 +15,7 @@
 - [Car Fleet](https://leetcode.com/problems/car-fleet/description/) &nbsp;&nbsp;[📄](/stack/CarFleet.java)
 - [Simplify Path](https://leetcode.com/problems/simplify-path/description/) &nbsp;&nbsp;[📄](/stack/SimplifyPath.java)
 - [Decode String](https://leetcode.com/problems/decode-string/description/) &nbsp;&nbsp;[📄](/stack/DecodeString.java)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) &nbsp;&nbsp;[📄](/stack/GenerateParentheses.java)
 
 ##### Hard
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) &nbsp;&nbsp;[📄](/stack/MaximumFrequencyStack.java)

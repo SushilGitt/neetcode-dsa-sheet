@@ -11,3 +11,4 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Two Pointers](/two%20pointers/two_pointers.md)
 - [Sliding Window](/sliding_window/sliding_window.md)
 - [Stack](/stack/stack.md)
+- [Binary Search](/binary_search/binarySearch.md)
