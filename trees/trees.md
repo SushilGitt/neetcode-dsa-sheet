@@ -9,3 +9,4 @@
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) &nbsp;&nbsp;[📄](/trees/MaximumDepthOfBinaryTree.java)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) &nbsp;&nbsp;[📄](/trees/DiameterOfBinaryTree.java)
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) &nbsp;&nbsp;[📄](/trees/BalancedBinaryTree.java)
+- [Same Tree](https://leetcode.com/problems/same-tree/description/) &nbsp;&nbsp;[📄](/trees/SameTree.java)
