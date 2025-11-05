@@ -11,3 +11,8 @@
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) &nbsp;&nbsp;[📄](/trees/BalancedBinaryTree.java)
 - [Same Tree](https://leetcode.com/problems/same-tree/description/) &nbsp;&nbsp;[📄](/trees/SameTree.java)
 - [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) &nbsp;&nbsp;[📄](/trees/SubtreeOfAnotherTree.java)
+
+#### Medium
+
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) &nbsp;&nbsp;[📄](/trees/LowestCommonAncestorOfBST.java)
+- [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) &nbsp;&nbsp;[📄](/trees/InsertIntoBST.java)
