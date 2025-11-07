@@ -16,3 +16,4 @@
 
 - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) &nbsp;&nbsp;[📄](/trees/LowestCommonAncestorOfBST.java)
 - [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) &nbsp;&nbsp;[📄](/trees/InsertIntoBST.java)
+- [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) &nbsp;&nbsp;[📄](DeleteNodeInBST.java)
