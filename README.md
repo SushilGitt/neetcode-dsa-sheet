@@ -8,9 +8,9 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 
 ## 📚 Topics Covered
 - [Arrays & Hashing](/arrays-and-hashing/arrays-and-hashing.md)
-- [Two Pointers](/two%20pointers/two_pointers.md)
-- [Sliding Window](/sliding_window/sliding_window.md)
-- [Stack](/stack/stack.md)
-- [Binary Search](/binary_search/binarySearch.md)
-- [Linked List](/linked_list/linked_list.md)
+- [Two Pointers](/two-pointers/two-pointers.md)
+- [Sliding Window](/sliding-window/sliding-window.md)
+- [Stack](/stacks/stacks.md)
+- [Binary Search](/binary-search/binary-search.md)
+- [Linked List](/linked-list/linked-list.md)
 - [Trees](/trees/trees.md)...
