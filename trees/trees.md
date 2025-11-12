@@ -18,3 +18,5 @@
 - [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) &nbsp;&nbsp;[📄](/trees/InsertIntoBST.java)
 - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) &nbsp;&nbsp;[📄](DeleteNodeInBST.java)
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) &nbsp;&nbsp;[📄](BinaryTreeLevelOrderTraversal.java)
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) &nbsp;&nbsp;[📄](BinaryTreeRightSideView.java)
+- [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) &nbsp;&nbsp;[📄](CountGoodNodesInBinaryTree.java)
