@@ -20,3 +20,5 @@
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) &nbsp;&nbsp;[📄](BinaryTreeLevelOrderTraversal.java)
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) &nbsp;&nbsp;[📄](BinaryTreeRightSideView.java)
 - [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) &nbsp;&nbsp;[📄](CountGoodNodesInBinaryTree.java)
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) &nbsp;&nbsp;[📄](ValidateBinarySearchTree.java)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) &nbsp;&nbsp;[📄](KthSmallestElementInBST.java)
