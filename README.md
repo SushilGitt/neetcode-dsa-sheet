@@ -13,4 +13,5 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Stack](/stacks/stacks.md)
 - [Binary Search](/binary-search/binary-search.md)
 - [Linked List](/linked-list/linked-list.md)
-- [Trees](/trees/trees.md)...
+- [Trees](/trees/trees.md)
+- [Heap/PriorityQueue](/heap/heap.md)
