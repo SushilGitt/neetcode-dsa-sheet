@@ -22,3 +22,6 @@
 - [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) &nbsp;&nbsp;[📄](CountGoodNodesInBinaryTree.java)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) &nbsp;&nbsp;[📄](ValidateBinarySearchTree.java)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) &nbsp;&nbsp;[📄](KthSmallestElementInBST.java)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) &nbsp;&nbsp;[📄](ConstructBinaryTreeFromPreAndInorder.java)
+- [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) &nbsp;&nbsp;[📄](HouseRobberIII.java)
+- [Delete Leaves With A Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) &nbsp;&nbsp;[📄](DeleteLeavesWithGivenValue.java)
