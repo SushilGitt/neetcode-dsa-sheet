@@ -1,10 +1,9 @@
-# NeetCode DSA Sheet Solutions
-
-This repository contains my personal solutions to the [NeetCode DSA Sheet](https://neetcode.io/). I'm using it as part of my journey to master data structures and algorithms in preparation for technical interviews and to deepen my problem-solving skills.
+# NeetCode DSA Sheet
+This repo contains NeetCode DSA Sheet solution. I'm using this sheet to learn and improve my DS & Algo.
 
 ## 🚀 Goals
-- Solve all problems in the sheet
-- Write clean, readable, and efficient code
+- Learn DS & Algo.
+- Build consistency, and practice daily.
 
 ## 📚 Topics Covered
 - [Arrays & Hashing](/arrays-and-hashing/arrays-and-hashing.md)
@@ -15,3 +14,4 @@ This repository contains my personal solutions to the [NeetCode DSA Sheet](https
 - [Linked List](/linked-list/linked-list.md)
 - [Trees](/trees/trees.md)
 - [Heap/PriorityQueue](/heap/heap.md)
+- [Backtracking](/backtracking/backtracking.md)

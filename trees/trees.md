@@ -25,3 +25,8 @@
 - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) &nbsp;&nbsp;[📄](ConstructBinaryTreeFromPreAndInorder.java)
 - [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) &nbsp;&nbsp;[📄](HouseRobberIII.java)
 - [Delete Leaves With A Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) &nbsp;&nbsp;[📄](DeleteLeavesWithGivenValue.java)
+
+#### Hard
+
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) &nbsp;&nbsp;[📄](BinaryTreeMaximumPathSum.java)
+- [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) &nbsp;&nbsp;[📄](SerializeAndDeserializeBinaryTree.java)
